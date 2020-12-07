@@ -3,10 +3,6 @@
 // icon-color: deep-blue; icon-glyph: map-marked-alt;
 // share-sheet-inputs: plain-text;
 
-// const message = args.plainTexts[0]
-// const split_message= message.split(/\r?\n/)
-// const address = split_message[split_message.length - 1]
-
 const message = args.plainTexts[0]
 const split_message= message.split(/\r?\n/)
 const address = split_message[split_message.length - 1]
